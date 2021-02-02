@@ -9,12 +9,7 @@ function App() { //this is the root component
   //injected into JSX using {}
   return (
     <div className="App">
-      <h1>Welcome to React, {name}</h1>
-      <h2>We just modified our root App component</h2>
-      <Header /> {/* this is how you mount a component */}
-      <AboutMe />
-      <Home />
-      <Footer />
+
     </div>
 
   );
